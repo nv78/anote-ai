@@ -29,7 +29,7 @@ Anote develops a set of products that together provide a **full-stack AI platfor
 
 | Product | GitHub Repository | Overview | Status | Link |
 |---|---|---|---|---|
-| **MLOps Platform** | https://github.com/anote-ai/Anote-Product | End-to-end MLOps platform supporting data annotation, dataset creation, model training, fine-tuning, evaluation, and chatbot deployment. | Production | https://dashboard.anote.ai |
+| **MLOps Platform** | https://github.com/anote-ai/OpenAnote | End-to-end MLOps platform supporting data annotation, dataset creation, model training, fine-tuning, evaluation, and chatbot deployment. | Production | https://dashboard.anote.ai |
 | **Research** | https://github.com/anote-ai/Research | Code supporting Anote research publications and experiments in human-centered AI. | POC | https://anote.ai/research |
 | **Model Leaderboard** | https://github.com/anote-ai/Leaderboard | Evaluation infrastructure for benchmarking large language models with evolving datasets and expert evaluations. | POC | https://anote.ai/leaderboard |
 | **Synthetic Data** | https://github.com/anote-ai/Synthetic-Data | Tools for generating synthetic datasets across modalities including text, image, and audio. | POC | https://anote.ai/syntheticdata |
