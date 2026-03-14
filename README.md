@@ -1,8 +1,11 @@
 # Anote – Human-Centered AI
 
 **Founder:** Natan Vidra  
+
 **GitHub:** https://github.com/nv78  
-**Organization:** https://github.com/anote-ai  
+
+**Organization:** https://github.com/anote-ai
+
 **Website:** https://anote.ai  
 
 Anote is an **applied artificial intelligence research company based in New York City**.  
@@ -210,7 +213,7 @@ https://arxiv.org/abs/2404.07221
 
 For research collaborations, partnerships, or enterprise deployments:
 
-📧 nvidra@anote.ai
+nvidra@anote.ai
 
 ---
 
