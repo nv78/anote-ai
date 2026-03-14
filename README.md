@@ -8,10 +8,9 @@
 
 **Website:** https://anote.ai  
 
-Anote is an **applied artificial intelligence research company based in New York City**.  
-The company develops **Human-Centered AI systems** designed to make AI more reliable, explainable, and effective for real-world use.
+Anote is an **applied artificial intelligence research company based in New York City**. Anote builds AI technology to provide high quality datasets and evaluations for leading enterprises, federal clients, and model providers.
 
-Anote builds infrastructure that supports the **entire AI / ML lifecycle**, including:
+The company develops **Human-Centered AI systems** designed to make AI more reliable, explainable, and effective for real-world use. Anote builds infrastructure that supports the **entire AI / ML lifecycle**, including:
 
 - Data curation and dataset creation  
 - Data annotation and human feedback pipelines  
